@@ -2,24 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-07-30T09:09:05 EDT" name="Default suite" finished-at="2024-07-30T09:09:14 EDT" duration-ms="9611">
+  <suite started-at="2024-08-02T15:53:48 EDT" name="Default suite" finished-at="2024-08-02T15:54:09 EDT" duration-ms="20051">
     <groups>
     </groups>
-    <test started-at="2024-07-30T09:09:05 EDT" name="Default test" finished-at="2024-07-30T09:09:14 EDT" duration-ms="9611">
-      <class name="SeleniumPractice.SeleniumPractice.LinksInPageCount">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumPractice.SeleniumPractice.LinksInPageCount@3590fc5b]" started-at="2024-07-30T09:09:05 EDT" name="setUp" finished-at="2024-07-30T09:09:13 EDT" duration-ms="8513" status="PASS">
+    <test started-at="2024-08-02T15:53:48 EDT" name="Default test" finished-at="2024-08-02T15:54:09 EDT" duration-ms="20051">
+      <class name="SeleniumPractice.SeleniumPractice.LaunchMultipleBrowsers">
+        <test-method signature="startUp()[pri:0, instance:SeleniumPractice.SeleniumPractice.LaunchMultipleBrowsers@1bb5a082]" started-at="2024-08-02T15:53:49 EDT" name="startUp" finished-at="2024-08-02T15:54:08 EDT" duration-ms="19697" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="countLinks()[pri:0, instance:SeleniumPractice.SeleniumPractice.LinksInPageCount@3590fc5b]" started-at="2024-07-30T09:09:13 EDT" name="countLinks" finished-at="2024-07-30T09:09:14 EDT" duration-ms="540" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- countLinks -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumPractice.SeleniumPractice.LinksInPageCount@3590fc5b]" started-at="2024-07-30T09:09:14 EDT" name="tearDown" finished-at="2024-07-30T09:09:14 EDT" duration-ms="439" status="PASS">
+        </test-method> <!-- startUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumPractice.SeleniumPractice.LaunchMultipleBrowsers@1bb5a082]" started-at="2024-08-02T15:54:08 EDT" name="tearDown" finished-at="2024-08-02T15:54:09 EDT" duration-ms="274" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- SeleniumPractice.SeleniumPractice.LinksInPageCount -->
+      </class> <!-- SeleniumPractice.SeleniumPractice.LaunchMultipleBrowsers -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
